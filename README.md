@@ -14,7 +14,7 @@ For API design, please vist [https://photos14.docs.apiary.io](https://photos14.d
 1. Clone the repo
 
 ```
-$ git clone git@github.com:duong-le/flask-photo-app.git
+$ git clone git@github.com:duongleh/flask-photo-app.git
 $ cd flask-photo-app
 ```
 
