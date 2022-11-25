@@ -2,7 +2,7 @@
 
 ## Documentation
 
-For API design, please vist [https://photos14.docs.apiary.io](https://photos14.docs.apiary.io)
+For API design, please visit [https://photos14.docs.apiary.io](https://photos14.docs.apiary.io)
 
 ## Prerequisites
 
